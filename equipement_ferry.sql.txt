@@ -1,0 +1,10 @@
+INSERT INTO `equipement_ferry` (`id`, `created_at`, `updated_at`, `bateau_id`, `equipement_id`) VALUES
+(5, NULL, NULL, 2, 1),
+(6, NULL, NULL, 2, 3),
+(7, NULL, NULL, 1, 1),
+(8, NULL, NULL, 1, 2),
+(9, NULL, NULL, 1, 4),
+(10, NULL, NULL, 1, 3),
+(13, NULL, NULL, 13, 1),
+(14, NULL, NULL, 13, 2),
+(15, NULL, NULL, 13, 4);
