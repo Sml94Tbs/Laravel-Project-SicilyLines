@@ -54,7 +54,7 @@ class FerryController extends Controller
         $ferry->save();
         //dd($ferry);
         $ferry->equipements()->attach($ferryRequest->equipement_id);
-        return redirect()->route('ferry.index')->with('info', "Le ferry a bien été ajouter !");
+        return redirect()->route('ferry.index')->with('info', "Le ferry a bien été ajouté !");
     }
 
     /**
@@ -91,7 +91,7 @@ class FerryController extends Controller
         $ferry->vitesse= $ferryRequest->input('vitesse');
         $ferry->equipements()->attach($ferryRequest->equipement_id);
         $ferry->save();
-        return redirect()->route('ferry.index')->with('info', "Le ferry a bien été Modifier !");
+        return redirect()->route('ferry.index')->with('info', "Le ferry a bien été Modifié !");
     }
 
     /**
@@ -100,7 +100,7 @@ class FerryController extends Controller
     public function destroy(Ferry $ferry)
     {
         $ferry->delete();
-        return back()->with('info', "le ferry a été supprimer !");
+        return back()->with('info', "le ferry a été supprimé !");
         
     }
 
