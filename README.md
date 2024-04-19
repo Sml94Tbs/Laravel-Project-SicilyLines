@@ -1,6 +1,6 @@
 Page de login permettant d’accéder au reste du site
 
-![](Aspose.Words.8fed5b3f-673a-4464-aae7-145e4d4b954d.001.jpeg)
+![](readmefiles/Aspose.Words.8fed5b3f-673a-4464-aae7-145e4d4b954d.001.jpeg)
 
 page d’accueil du site, un clique sur voir les bateaux permet d’accéder à une autre page permettant d'interagir avec les différents ferrys.
 
