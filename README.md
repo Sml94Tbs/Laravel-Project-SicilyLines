@@ -33,8 +33,8 @@ Page de modification du ferry sélectionné depuis la page contenant les ferry d
 
 Exemple de pdf généré lors d’un clique sur le bouton “générer un pdf” depuis la page d’intéraction (contenant tout les détails du ferry : image, nom, dimensions, vitesse, équipements)
 
-![](Aspose.Words.8fed5b3f-673a-4464-aae7-145e4d4b954d.007.jpeg)
+![](readmefiles/Aspose.Words.8fed5b3f-673a-4464-aae7-145e4d4b954d.007.jpeg)
 
 Visualisation de la bdd
 
-![](Aspose.Words.8fed5b3f-673a-4464-aae7-145e4d4b954d.008.jpeg)
+![](readmefiles/Aspose.Words.8fed5b3f-673a-4464-aae7-145e4d4b954d.008.jpeg)
